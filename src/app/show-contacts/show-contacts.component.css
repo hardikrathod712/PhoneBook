@@ -1,0 +1,8 @@
+.cont {
+    max-height: 500px;
+    overflow-y: auto;
+}
+.num {
+    margin-left: 5px;
+    color: lightslategrey;
+}
